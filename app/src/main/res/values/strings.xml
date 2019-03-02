@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TemplateProject</string>
+    <!--Validators error-->
+    <string name="error_password_incorrect">\nВведенный адрес некорректен</string>
+    <string name="error_name">\nТекст должен содержать только буквы русского алфавита</string>
+    <string name="error_email_incorrect">\nНеверный Email адресс</string>
+    <string name="error_phone_number_incorrect">\nНеверный телефонный номер</string>
+    <string name="error_number">\nПожалуйста введите корректные данные</string>
+
+</resources>
