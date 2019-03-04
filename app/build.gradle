@@ -89,4 +89,7 @@ dependencies {
     /* Rx2Firebase */
     implementation 'com.github.FrangSierra:RxFirebase:1.5.6'
 
+    /* Glide */
+    implementation 'com.github.bumptech.glide:glide:4.8.0'
+
 }

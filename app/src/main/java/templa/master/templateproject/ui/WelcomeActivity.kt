@@ -1,10 +1,10 @@
 package templa.master.templateproject.ui
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import templa.master.templateproject.R
+import templa.master.templateproject.base.BaseActivity
 
-class WelcomeActivity : AppCompatActivity() {
+class WelcomeActivity : BaseActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
