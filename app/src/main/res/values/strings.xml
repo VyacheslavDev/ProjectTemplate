@@ -6,6 +6,9 @@
     <string name="error_email_incorrect">\nНеверный Email адресс</string>
     <string name="error_phone_number_incorrect">\nНеверный телефонный номер</string>
     <string name="error_number">\nПожалуйста введите корректные данные</string>
+    <!--Validators error-->
+
     <string name="please_wait">Пожалуйста, подождите…</string>
+    <string name="please_check_internet_connection">Please check your internet connection</string>
 
 </resources>
