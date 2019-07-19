@@ -8,15 +8,13 @@ import android.graphics.Paint
 import android.net.ConnectivityManager
 import android.net.NetworkInfo
 import android.net.Uri
-import android.support.annotation.DrawableRes
-import android.support.annotation.MenuRes
-import android.support.annotation.StringRes
-import android.support.v4.app.Fragment
-import android.support.v4.app.FragmentManager
-import android.support.v4.content.ContextCompat
-import android.support.v4.view.ViewCompat
-import android.support.v7.app.AppCompatActivity
-import android.support.v7.widget.Toolbar
+import androidx.annotation.DrawableRes
+import androidx.annotation.MenuRes
+import androidx.annotation.StringRes
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentManager
+import androidx.core.content.ContextCompat
+import androidx.core.view.ViewCompat
 import android.telephony.PhoneNumberFormattingTextWatcher
 import android.view.LayoutInflater
 import android.view.View
@@ -28,6 +26,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
 import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 
 fun View?.showKeyboard() {
     this?.let {

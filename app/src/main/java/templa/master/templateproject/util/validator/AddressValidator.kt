@@ -1,7 +1,7 @@
 package templa.master.templateproject.util.validator
 
-import android.support.design.widget.TextInputLayout
 import android.widget.EditText
+import com.google.android.material.textfield.TextInputLayout
 import templa.master.templateproject.R
 
 class AddressValidator(editText: EditText,

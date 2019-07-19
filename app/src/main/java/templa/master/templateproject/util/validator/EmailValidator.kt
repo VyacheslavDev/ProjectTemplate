@@ -1,8 +1,8 @@
 package templa.master.templateproject.util.validator
 
-import android.support.design.widget.TextInputLayout
 import android.util.Patterns
 import android.widget.EditText
+import com.google.android.material.textfield.TextInputLayout
 import templa.master.templateproject.R
 import templa.master.templateproject.util.validator.BaseTextValidator
 

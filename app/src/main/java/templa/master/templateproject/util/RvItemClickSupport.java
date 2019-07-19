@@ -1,7 +1,7 @@
 package templa.master.templateproject.util;
 
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import androidx.recyclerview.widget.RecyclerView;
 import templa.master.templateproject.R;
 
 public class RvItemClickSupport {

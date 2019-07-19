@@ -2,7 +2,7 @@ package templa.master.templateproject.base
 
 import android.app.ProgressDialog
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import org.jetbrains.anko.toast
 import templa.master.templateproject.BuildConfig
 import templa.master.templateproject.R
